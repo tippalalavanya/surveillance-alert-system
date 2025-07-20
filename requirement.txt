@@ -1,0 +1,6 @@
+opencv-python
+face_recognition
+numpy```
+
+#### 4. File: `.gitignore`
+*(This tells Git which files to ignore. It is critical for security.)*
