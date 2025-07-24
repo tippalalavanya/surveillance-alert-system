@@ -48,7 +48,7 @@ graph TD
 surveillance-alert-system/
 ├── known_faces/         # Pre-labeled known face images
 ├── captured_intruders/  # Stores intruder images
-├── surveillance.py      # Main program logic
+├── alert.py      # Main program logic
 ├── config.py            # Email settings and system config
 └── README.md            # Documentation
 ```
@@ -95,7 +95,7 @@ MATCH_THRESHOLD = 0.6  # Face recognition confidence threshold
 4.  **Run the Program**
 
     ```bash
-    python surveillance.py
+    python alert.py
     ```
 
 -----
