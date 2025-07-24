@@ -154,5 +154,5 @@ Feel free to contribute via pull requests or open issues.
 
 ## 🔗 Repository
 
-GitHub: [Surveillance Alert System](https://www.google.com/search?q=https://github.com/tippalalavanya/surveillance-alert-system)
+GitHub: [Surveillance Alert System](https://github.com/tippalalavanya/surveillance-alert-system)
 
